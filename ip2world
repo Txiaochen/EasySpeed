@@ -44,16 +44,6 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇸🇬 SG-1·TG@Weoworks
-      - 🇸🇬 SG-2·TG@Weoworks
-      - 🇸🇬 SG-3·TG@Weoworks
-      - 🇸🇬 SG-4·TG@Weoworks
-      - 🇭🇰 HK-1·TG@Weoworks
-      - 🇭🇰 HK-2·TG@Weoworks
-      - 🇫🇷 FR-1·TG@Weoworks
-      - 🇫🇷 FR-2·TG@Weoworks
-      - 🇯🇵 JP-1·TG@Weoworks/仅800GB
-      - 🇯🇵 JP-2·TG@Weoworks/仅800GB
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -70,32 +60,12 @@ proxy-groups:
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - 🇸🇬 SG-1·TG@Weoworks
-      - 🇸🇬 SG-2·TG@Weoworks
-      - 🇸🇬 SG-3·TG@Weoworks
-      - 🇸🇬 SG-4·TG@Weoworks
-      - 🇭🇰 HK-1·TG@Weoworks
-      - 🇭🇰 HK-2·TG@Weoworks
-      - 🇫🇷 FR-1·TG@Weoworks
-      - 🇫🇷 FR-2·TG@Weoworks
-      - 🇯🇵 JP-1·TG@Weoworks/仅800GB
-      - 🇯🇵 JP-2·TG@Weoworks/仅800GB
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇸🇬 SG-1·TG@Weoworks
-      - 🇸🇬 SG-2·TG@Weoworks
-      - 🇸🇬 SG-3·TG@Weoworks
-      - 🇸🇬 SG-4·TG@Weoworks
-      - 🇭🇰 HK-1·TG@Weoworks
-      - 🇭🇰 HK-2·TG@Weoworks
-      - 🇫🇷 FR-1·TG@Weoworks
-      - 🇫🇷 FR-2·TG@Weoworks
-      - 🇯🇵 JP-1·TG@Weoworks/仅800GB
-      - 🇯🇵 JP-2·TG@Weoworks/仅800GB
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -111,16 +81,6 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇸🇬 SG-1·TG@Weoworks
-      - 🇸🇬 SG-2·TG@Weoworks
-      - 🇸🇬 SG-3·TG@Weoworks
-      - 🇸🇬 SG-4·TG@Weoworks
-      - 🇭🇰 HK-1·TG@Weoworks
-      - 🇭🇰 HK-2·TG@Weoworks
-      - 🇫🇷 FR-1·TG@Weoworks
-      - 🇫🇷 FR-2·TG@Weoworks
-      - 🇯🇵 JP-1·TG@Weoworks/仅800GB
-      - 🇯🇵 JP-2·TG@Weoworks/仅800GB
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
