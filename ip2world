@@ -64,16 +64,7 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - 🇸🇬 SG-1·TG@Weoworks
-      - 🇸🇬 SG-2·TG@Weoworks
-      - 🇸🇬 SG-3·TG@Weoworks
-      - 🇸🇬 SG-4·TG@Weoworks
-      - 🇭🇰 HK-1·TG@Weoworks
-      - 🇭🇰 HK-2·TG@Weoworks
-      - 🇫🇷 FR-1·TG@Weoworks
-      - 🇫🇷 FR-2·TG@Weoworks
-      - 🇯🇵 JP-1·TG@Weoworks/仅800GB
-      - 🇯🇵 JP-2·TG@Weoworks/仅800GB
+      - ip2world-50000
   - name: 📲 电报信息
     type: select
     proxies:
